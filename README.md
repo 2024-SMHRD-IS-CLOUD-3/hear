@@ -201,11 +201,5 @@
                         Chat GPT AI 요약 구현 <br>
                         JWT 회원가입, 로그인<br>
      </td>
-
     </tr>
 </table>
-
-
-
-
-
