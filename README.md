@@ -1,9 +1,5 @@
 # 📎 H-ear(팀명: 위아히어(We Are Hear)
-![image](https://github.com/user-attachments/assets/fbb112c2-97fa-49e5-b851-4e321d3e6530)
-
-
-
-
+![1732162949487](https://github.com/user-attachments/assets/321f92c4-8035-4515-bb36-2ddd62907893)
 
 ## 👀 서비스 소개
 * 서비스명:  H-EAR
