@@ -198,4 +198,11 @@
                         JWT 회원가입, 로그인<br>
      </td>
     </tr>
+    <tr>
+        <td align="center"></td>
+        <td align="center"></td>
+        <td align="center"></td>
+        <td align="center">공부하면서 시간 내에 하려는 것이 많이 힘들었지만 그래서 더 배울 수 있었던 프로젝트. 앞으로 공부함에 있어 무엇부터 공부하면 좋을지 방향을 정할 수 있었다.</td>
+        <td align="center"></td>
+    </tr>
 </table>
